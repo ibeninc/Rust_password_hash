@@ -1,5 +1,5 @@
 [package]
-name = "argon2"
+name = "Rust Password HAsh"
 version = "0.4.1"
 description = """
 Pure Rust implementation of the Argon2 password hashing function with support
