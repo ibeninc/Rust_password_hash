@@ -5,14 +5,14 @@ description = """
 Pure Rust implementation of the Argon2 password hashing function with support
 for the Argon2d, Argon2i, and Argon2id algorithmic variants
 """
-authors = ["RustCrypto Developers"]
+authors = ["Ruby"]
 license = "MIT OR Apache-2.0"
 documentation = "https://docs.rs/argon2"
-repository = "https://github.com/RustCrypto/password-hashes/tree/master/argon2"
+repository = "https://github.com/ibeninc/Rust_password_hash"
 keywords = ["crypto", "password", "hashing"]
 categories = ["cryptography", "no-std"]
 readme = "README.md"
-edition = "2021"
+edition = "2022"
 rust-version = "1.57"
 
 [dependencies]
